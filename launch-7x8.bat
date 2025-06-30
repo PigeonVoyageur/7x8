@@ -12,7 +12,7 @@ echo.
 :: Vérifier si le dossier existe
 if not exist "d:\Projet perso\7x8\7x8" (
     echo ❌ Erreur: Le dossier du projet n'existe pas !
-    echo    Chemin: d:\Projet perso\7x8\7x8
+    echo    Chemin: d:\Projet perso\7x8\7x8  //A MODIFIER SELON VOTRE CHEMIN D'ACCES
     pause
     exit /b 1
 )
